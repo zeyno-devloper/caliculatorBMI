@@ -1,0 +1,35 @@
+/* CSS (styles.css) */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #e9ecef;
+}
+
+#nav1{
+    margin: 20px;
+}
+.result {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #212529;
+}
+.card {
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    border: none;
+}
+.card .form-control {
+    height: 45px;
+}
+.card .btn {
+    font-size: 18px;
+}
+.card .result {
+    font-size: 20px;
+    font-weight: bold;
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
